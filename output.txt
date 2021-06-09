@@ -1,0 +1,23 @@
+["act", "cat"]	2
+["baker", "break"]	2
+["builder", "rebuild"]	2
+["care", "race"]	2
+["cause", "sauce"]	2
+["cheater", "teacher"]	2
+["dare", "read"]	2
+["desserts", "stressed"]	2
+["dog", "god"]	2
+["dusty", "study"]	2
+["earth", "heart"]	2
+["flow", "wolf"]	2
+["keen", "knee"]	2
+["kitchen", "thicken"]	2
+["listen", "silent"]	2
+["mates", "meats", "tames", "teams"]	4
+["meats", "tames", "teams"]	3
+["meats", "tames"]	2
+["night", "thing"]	2
+["part", "trap"]	2
+["save", "vase"]	2
+["stake", "takes"]	2
+["tofu", "tofu"]	2
